@@ -1,1 +1,1 @@
-The files below contain a exemplification of the formulas used in order to determine the coordinates of all points on a star. The other file represents a simulation of the robot's environment used in order to test the program written.
+The files in this repository contain a exemplification of the formulas used in order to determine the coordinates of all points on a star. The other file represents a simulation of the robot's environment used in order to test the written program.
